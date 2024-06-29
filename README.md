@@ -1,5 +1,5 @@
 # Data Science Internship Projects
-![Project Image]( https://www.google.com/search?q=data+science+project+title+name&sca_esv=cd8754e195853826&sca_upv=1&udm=2&biw=1366&bih=625&sxsrf=ADLYWIKXpjSuUnAJs0cimR99acunkUC7cQ%3A1719678110419&ei=njSAZqSeGdXj2roPw52p2AE&ved=0ahUKEwik5ZiXnIGHAxXVsVYBHcNOChsQ4dUDCBA&uact=5&oq=data+science+project+title+name&gs_lp=Egxnd3Mtd2l6LXNlcnAiH2RhdGEgc2NpZW5jZSBwcm9qZWN0IHRpdGxlIG5hbWVI-hBQjQNY9ApwAHgAkAEBmAGxA6ABhAmqAQkwLjMuMS4wLjG4AQPIAQD4AQGYAgGgAs4DwgIEECMYJ8ICBxAAGIAEGBiYAwCIBgGSBwM0LTGgB_8D&sclient=gws-wiz-serp#vhid=bIs2C0r2Pags3M&vssid=mosaic)
+![Project Image]()
 ## Overview
 Welcome to my Data Science Internship projects repository! This collection showcases my work in various domains of data science, including Machine Learning, Natural Language Processing (NLP), Deep Learning, and Advanced Algorithms. 🚀
 
