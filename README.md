@@ -1,5 +1,5 @@
 # Data Science Internship Projects
-![Project Image]()
+![Project Image](https://github.com/ParimalA24-DS/DATA-SCIENCE-INTERNSHIP-PROJECT/blob/main/Images/what-is-data-science.jpg)
 ## Overview
 Welcome to my Data Science Internship projects repository! This collection showcases my work in various domains of data science, including Machine Learning, Natural Language Processing (NLP), Deep Learning, and Advanced Algorithms. 🚀
 
@@ -24,6 +24,7 @@ Manage and analyze client data using SQL, focusing on optimizing queries and dat
 
 ### 7. Credit Risk Modeling 💳
 Build and evaluate models to predict credit risk and analyze financial data.
+![CreditCarddetection](https://github.com/ParimalA24-DS/DATA-SCIENCE-INTERNSHIP-PROJECT/blob/main/Images/Credit_card_fraud_detection_1.jpg)
 ---
 ## Technologies Used
 - **Programming Languages**: Python 🐍, SQL
